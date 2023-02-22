@@ -42,7 +42,7 @@ spring:
 store:
   storeNo: 5000
   storeName: medplus
-  storeManager: Harish Kathe
+  storeManager: Bhaskar Kathe
   openHours: 9
   openMinutes: 30
   closingHours: 10
