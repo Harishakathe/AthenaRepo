@@ -15,7 +15,7 @@ spring:
       ddl-auto: update
 store:
   storeNo: 800
-  storeName: medplus
+  storeName: medplus updated
   storeManager: MMMM
   openHours: 10
   openMinutes: 30
