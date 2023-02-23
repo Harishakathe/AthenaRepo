@@ -16,7 +16,7 @@ spring:
 store:
   storeNo: 800
   storeName: medplus
-  storeManager: Kathe
+  storeManager: MMMM
   openHours: 10
   openMinutes: 30
   closingHours: 10
