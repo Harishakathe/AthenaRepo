@@ -40,8 +40,8 @@ spring:
     hibernate:
       ddl-auto: update
 store:
-  storeNo: 500
-  storeName: medplus
+  storeNo: 400
+  storeName: medplus pharamacy
   storeManager: Greg
   openHours: 9
   openMinutes: 30
