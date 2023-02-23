@@ -14,9 +14,9 @@ spring:
     hibernate:
       ddl-auto: update
 store:
-  storeNo: 500
-  storeName: medplus
-  storeManager: HKKK
+  storeNo: 600
+  storeName: medplusNew
+  storeManager: HarishKKK
   openHours: 10
   openMinutes: 30
   closingHours: 10
