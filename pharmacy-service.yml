@@ -14,10 +14,10 @@ spring:
     hibernate:
       ddl-auto: update
 store:
-  storeNo: 800
+  storeNo: 7000
   storeName: medplus
-  storeManager: Harish Kathe
-  openHours: 9
+  storeManager: Rakesh
+  openHours: 10
   openMinutes: 30
   closingHours: 10
   closingMinutes: 00
