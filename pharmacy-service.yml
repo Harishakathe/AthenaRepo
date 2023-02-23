@@ -14,9 +14,9 @@ spring:
     hibernate:
       ddl-auto: update
 store:
-  storeNo: 8000
+  storeNo: 6000
   storeName: medplus Medicle
-  storeManager: Harish Kathe
+  storeManager: Harish
   openHours: 9
   openMinutes: 30
   closingHours: 10
