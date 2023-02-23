@@ -41,7 +41,7 @@ spring:
       ddl-auto: update
 store:
   storeNo: 400
-  storeName: medplus pharamacy
+  storeName: medplus
   storeManager: Greg
   openHours: 9
   openMinutes: 30
